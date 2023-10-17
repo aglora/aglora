@@ -10,10 +10,8 @@ I am currently studying an Engeneering Master Degree at the University of Sevill
 
 <img align="right" alt="img" src="https://github.com/aglora.jpg" width="50%" height="auto" />
 
-
 #### 🌱 Things I am currently working on: 
 - Finish my Engineering Master Degree  
-- 
 - 
 
 #### :muscle: Things I am challenging myself with:
