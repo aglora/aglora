@@ -11,16 +11,15 @@ I am currently studying an Engeneering Master Degree at the University of Sevill
 <img align="right" alt="img" src="https://github.com/aglora.jpg" width="50%" height="auto" />
 
 #### 🌱 Things I am currently working on: 
-- Finish my Engineering Master Degree  
-- 
+- Complete my Engineering Master Degree  
+- Personal projets
+- Be happy
 
 #### :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day
 - Exercising every day
 
 #### :computer: Programming languages and tools: 
-<p>
-
  <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,py,arduino,raspberrypi,linux,vscode,ros,matlab,git,gitlab,github,discord,docker,html,photoshop&perline=8" />
