@@ -27,3 +27,5 @@ Welcome to my Github page! I am Álvaro and I am currently studying Electronic, 
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
+
+[![](https://visitcount.itsvg.in/api?id=aglora&label=Profile%20Views&color=3&icon=5&pretty=true)](https://visitcount.itsvg.in)
