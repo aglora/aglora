@@ -25,7 +25,7 @@ I am currently studying an Engeneering Master Degree at the University of Sevill
 
  <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,arduino,raspberrypi,linux,vscode,ros,matlab,git,gitlab,github,discord,docker,html,photoshop&perline=14" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,arduino,raspberrypi,linux,vscode,ros,matlab,git,gitlab,github,discord,docker,html,photoshop&perline=8" />
   </a>
 </p>
 
