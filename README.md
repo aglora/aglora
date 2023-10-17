@@ -23,6 +23,7 @@ Welcome to my Github page! I am Álvaro and I am currently studying Electronic, 
 <p>
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img width="10%" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"></code>
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
