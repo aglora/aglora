@@ -23,7 +23,7 @@ I am currently studying an Engeneering Master Degree at the University of Sevill
 #### :computer: Programming languages and tools: 
 <p>
 
- <p align="center">
+ <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,c,cpp,discord,docker,github,html,linux,py,vscode&perline=14" />
   </a>
