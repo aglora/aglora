@@ -7,8 +7,6 @@
 Welcome to my Github page! I am an Electronics, Robotics & Mechatronics Engineer. 
 I am currently studying an Engeneering Master Degree at the University of Seville.  
 
-<img align="right" alt="img" src="https://github.com/aglora.jpg" width="50%" height="auto" />
-
 #### 🌱 Things I am currently working on: 
 - Complete my Engineering Master Degree  
 - Personal projets
