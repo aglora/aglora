@@ -5,6 +5,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:alvarog4lora@gmail.com)
 
 Welcome to my Github page! I am an Electronics, Robotics & Mechatronics Engineer. 
+
 I am currently studying an Engeneering Master Degree at the University of Seville.  
 
 #### 🌱 Things I am currently working on: 
