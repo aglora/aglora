@@ -10,6 +10,7 @@ I am currently studying an Engeneering Master Degree at the University of Sevill
 #### 🌱 Things I am currently working on: 
 - Complete my Engineering Master Degree  
 - Personal projets
+- Building my future
 - Be happy
 
 #### :muscle: Things I am challenging myself with:
