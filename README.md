@@ -25,4 +25,6 @@ I am currently studying an Engeneering Master Degree at the University of Sevill
   </a>
 </p>
 
-[![](https://visitcount.itsvg.in/api?id=aglora&label=Profile%20Views&color=3&icon=5&pretty=true)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=aglora&label=Profile%20Views&color=3&icon=5&pretty=true" />
+</a>
