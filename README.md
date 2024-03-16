@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alvaro-garcia-lora/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:alvarog4lora@gmail.com)
 
-Welcome to my Github page! I am an Electronics, Robotics & Mechatronics Engineer. 
+Welcome to my Github page! I am an Electronics, Robotics, Mechatronics & Automation Engineer. 
 
 I am currently studying an Engeneering Master Degree at the University of Seville.  
 
