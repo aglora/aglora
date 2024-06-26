@@ -6,11 +6,11 @@
 
 Welcome to my Github page! I am an Electronics, Robotics, Mechatronics & Automation Engineer. 
 
-I am currently studying an Engeneering Master Degree at the University of Seville.  
+I am currently finishing an Engeneering Master Degree at the University of Seville.  
 
 #### 🌱 Things I am currently working on: 
-- Complete my Engineering Master Degree  
-- Personal projets
+- Complete my Final Project Master Degree 
+- Personal entrepreneurship projets: [![FANS GRID](https://www.fansgrid.es)
 - Building my future
 - Be happy
 
