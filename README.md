@@ -6,9 +6,7 @@
 
 Welcome to my Github page! I am an Electronics, Robotics, Mechatronics & Automation Engineer. 
 
-I am currently finishing an Engeneering Master Degree at the University of Seville.  
-
-I work as a researcher in Multi-Platform Robotic Systems Integration Engineering at the University of Seville.
+I am currently finishing an Engeneering Master Degree and I am working as a researcher in Multi-Platform Robotic Systems Integration Engineering at the University of Seville.
 
 #### 🌱 Things I am currently working on: 
 - Complete my Final Project Master Degree 
