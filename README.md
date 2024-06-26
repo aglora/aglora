@@ -10,7 +10,7 @@ I am currently finishing an Engeneering Master Degree at the University of Sevil
 
 #### 🌱 Things I am currently working on: 
 - Complete my Final Project Master Degree 
-- Personal entrepreneurship projets: [](https://www.fansgrid.es)
+- Personal entrepreneurship projets: [!](https://www.fansgrid.es)
 - Building my future
 - Be happy
 
