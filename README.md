@@ -6,13 +6,13 @@
 
 Welcome to my Github page! I am an Electronics, Robotics, Mechatronics & Automation Engineer. 
 
-I am currently finishing an Engeneering Master Degree and I am working as a researcher in Multi-Platform Robotic Systems Integration Engineering at the University of Seville.
+I am currently starting a PhD in Robotic Engineering and I am working as a researcher in Multi-Platform Robotic Systems Integration Engineering at the University of Seville.
 
-#### 🌱 Things I am currently working on: 
-- Complete my Final Project Master Degree 
+#### 🌱 Things I am currently working on:  
 - Personal entrepreneurship projets: [www.fansgrid.es](https://www.fansgrid.es)
-- Building my future
-- Be happy
+- Maker projects (UGV, USV & UAV)
+- Studying languages
+- Personal development & Be happy
 
 #### :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day
