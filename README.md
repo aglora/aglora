@@ -9,8 +9,8 @@ Welcome to my Github page! I am an Electronics, Robotics, Mechatronics & Automat
 I am currently starting a PhD in Robotic Engineering and I am working as a researcher in Multi-Platform Robotic Systems Integration Engineering at the University of Seville.
 
 #### 🌱 Things I am currently working on:  
-- Personal entrepreneurship projets: [www.fansgrid.es](https://www.fansgrid.es)
-- Maker projects (UGV, USV & UAV)
+- Personal entrepreneurship projets
+- Maker projects
 - Studying languages
 - Personal development & Be happy
 
