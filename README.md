@@ -9,10 +9,10 @@ Welcome to my Github page! I am an Electronics, Robotics, Mechatronics & Automat
 I am currently starting a PhD in Robotic Engineering and I am working as a researcher in Multi-Platform Robotic Systems Integration Engineering at the University of Seville.
 
 #### 🌱 Things I am currently working on:  
-- Personal entrepreneurship projets
+- Personal development & entrepreneurship
 - Maker projects
 - Studying languages
-- Personal development & Be happy
+- Be happy
 
 #### :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day
