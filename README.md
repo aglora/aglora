@@ -6,7 +6,7 @@
 
 Welcome to my Github page! I am an Electronics, Robotics, Mechatronics & Automation Engineer. 
 
-I am currently starting a PhD in Robotic Engineering and I am working as a researcher in Multi-Platform Robotic Systems Integration Engineering at the University of Seville.
+PhD student in Robotic Engineering and Control Systems - Working as a researcher in Multi-Platform Robotic Systems Integration Engineering at the University of Seville.
 
 #### 🌱 Things I am currently working on:  
 - Personal development & entrepreneurship
